@@ -1,0 +1,19 @@
+14110201
+Nguyen Van Muoi Hai
+19
+3
+**************************
+INPR123
+Nhap mon Lap trinh
+4
+6.5
+**************************
+PRTE345
+Ky thuat Lap trinh
+4
+8.0
+**************************
+MATH345
+Toan cao cap A1
+3
+4.0

@@ -1,0 +1,12 @@
+MSSV: 14110201
+Ho ten: Nguyen Van Muoi Hai
+Tuoi: 19
+So mon da hoc: 3
+Danh sach mon hoc:
+  Mon 1: Nhap mon Lap trinh (Ma MH: INPR123, So TC: 4, Diem: 6.5)
+  Mon 2: Ky thuat Lap trinh (Ma MH: PRTE345, So TC: 4, Diem: 8.0)
+  Mon 3: Toan cao cap A1 (Ma MH: MATH345, So TC: 3, Diem: 4.0)
+Tong so tin chi: 11
+Tong so tin chi tich luy: 8
+Diem trung binh chung: 6.4
+Diem trung binh tich luy: 7.2
